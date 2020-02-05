@@ -1,6 +1,7 @@
  # React Movie rmdb
-[Link to App](https://newsapi-india.000webhostapp.com/)
-![project image](https://oliver-gomes.github.io/images/github%20images/react-movie.png)
+	Link to Website
+https://newsapi-india.000webhostapp.com
+
 
 ###################
 What is CodeIgniter
